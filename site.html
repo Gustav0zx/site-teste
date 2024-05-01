@@ -1,0 +1,16 @@
+ <!DOCTYPE HTML>
+ <HTML>
+    <HEAD>
+        <title>nina</title>
+    </HEAD>
+    <body>
+<center>
+        </h1>NINA>👈(ﾟヮﾟ👈)</h1>
+        <p>ESSA E A NINA DENTRO DO MINE</p>
+        <img src="gato.JPG.jpg"width='300px'height='400px'/>
+        <h3>ISSO E UM LINK QUE LEVA ATÉ VÍDEOS DE GATOS </h3> 
+        <a href="https://www.youtube.com/watch?v=PyJrC71VSSs"><input type=button value= GATOS PRETOS></a>
+ </center>
+        </body>
+    </body>
+ </HTML>
